@@ -1,0 +1,11 @@
+{
+  "name": "favicon-grabber",
+  "version": "1.0.0",
+  "description": "Get the favicon of any web domain.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thomas VIAUD",
+  "license": "ISC"
+}
